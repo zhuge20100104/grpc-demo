@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package services;
+
+import "Model.proto";
+
+message UserScoreRequest {
+    repeated UserInfo users = 1;
+}
+
+message UserScoreResponse {
+    repeated UserInfo users = 1;
+}
+
+service UserService {
+    rpc GetUserScore(UserScoreRequest) returns (UserScoreResponse) {}
+}
