@@ -10,7 +10,7 @@ import (
 
 	"google.golang.org/grpc/credentials"
 
-	"github.com/grpc-demo/grpc-3/client/services"
+	"github.com/zhuge20100104/grpc-demo/grpc-3/client/services"
 
 	"google.golang.org/grpc"
 )

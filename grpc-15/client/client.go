@@ -6,9 +6,9 @@ import (
 	"io"
 	"log"
 
-	"github.com/grpc-demo/grpc-15/client/helper"
+	"github.com/zhuge20100104/grpc-demo/grpc-15/client/helper"
 
-	"github.com/grpc-demo/grpc-15/client/services"
+	"github.com/zhuge20100104/grpc-demo/grpc-15/client/services"
 
 	"google.golang.org/grpc"
 )

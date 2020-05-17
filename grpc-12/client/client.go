@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/grpc-demo/grpc-12/client/helper"
+	"github.com/zhuge20100104/grpc-demo/grpc-12/client/helper"
 
-	"github.com/grpc-demo/grpc-12/client/services"
+	"github.com/zhuge20100104/grpc-demo/grpc-12/client/services"
 
 	"google.golang.org/grpc"
 )

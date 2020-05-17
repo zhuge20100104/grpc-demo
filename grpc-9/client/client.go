@@ -8,9 +8,9 @@ import (
 
 	"github.com/golang/protobuf/ptypes/timestamp"
 
-	"github.com/grpc-demo/grpc-9/client/helper"
+	"github.com/zhuge20100104/grpc-demo/grpc-9/client/helper"
 
-	"github.com/grpc-demo/grpc-9/client/services"
+	"github.com/zhuge20100104/grpc-demo/grpc-9/client/services"
 
 	"google.golang.org/grpc"
 )

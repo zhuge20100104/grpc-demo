@@ -6,7 +6,7 @@ import (
 
 	"google.golang.org/grpc/credentials"
 
-	"github.com/grpc-demo/grpc-2/server/services"
+	"github.com/zhuge20100104/grpc-demo/grpc-2/server/services"
 	"google.golang.org/grpc"
 )
 
